@@ -57,7 +57,7 @@ Detailed Notes
 
  - Updated the SmartRedis internal API for building commands for the backend database. (PR223_) This change should not be visible to clients.
 
- - The SmartRedis example code is now validated through the automated GitHub checkin process. This will help ensure that the examples do not fall out of date. (PR220)
+ - The SmartRedis example code is now validated through the automated GitHub checkin process. This will help ensure that the examples do not fall out of date. (PR220_)
 
  - Added missing copyright statements to CMakeLists.txt and the SmartRedis examples. (PR219_)
 
